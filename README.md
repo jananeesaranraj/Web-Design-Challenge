@@ -5,7 +5,7 @@
 Data becomes more powerful when you share it with others! That’s because people can use your data only if they can access it. So, you’ll use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
 **Website Requirements**
-
+ 
 The website must consist of 7 pages total,
 
 * Landing Page
@@ -43,6 +43,10 @@ At the top of every page, the website has a navigation bar that does the followi
   * Contains a drop-down menu, named Plots, on the right side of the navigation bar that contains a link to each visualization page.
 
   * Provides two more text links on the right side: Comparisons, which links to the comparisons page, and Data, which links to the data page.
+  
+ The website is deployed to GitHub Pages:
+  
+   https://jananeesaranraj.github.io/Web-Design-Challenge/
 
 
  
