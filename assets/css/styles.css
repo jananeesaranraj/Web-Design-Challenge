@@ -1,5 +1,5 @@
 .navbar-light .navbar-brand {
-    font-weight: 900;
+    font-weight: bolder;
     background-color: darkcyan;
     color: white;
 
@@ -86,7 +86,7 @@ th{
    
     .navbar-brand{
         position: relative;
-        font-size: large;
+        font-size: xx-large;
         display: block;
     }
     .navbar.bg-light {
